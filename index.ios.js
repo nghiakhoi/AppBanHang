@@ -5,12 +5,12 @@ import {
   Text,
   View
 } from 'react-native';
-import App from "./Components/App.js";
+import App1 from "./Components/App1.js";
 
 export default class AppBanHang extends Component {
   render() {
     return (
-      <App />
+      <App1 />
     );
   }
 }
