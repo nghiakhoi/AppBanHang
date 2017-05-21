@@ -1,11 +1,8 @@
 import React, { Component } from 'react';
 import {
-  AppRegistry,
-  StyleSheet,
-  Text,
-  View
+  AppRegistry
 } from 'react-native';
-import App2 from "./Components/App2.js";
+import App2 from './Components/App2.js';
 
 export default class AppBanHang extends Component {
   render() {
